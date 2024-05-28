@@ -7,6 +7,3 @@ Route::get('/', function () {
 });
 
 
-// Route::get('/products', function(){
-//     return 'products';
-// });
